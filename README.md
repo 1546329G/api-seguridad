@@ -20,6 +20,8 @@ https://j-c-g.apis-s.site/api/auth/login
 
 
 
+<img width="376" height="332" alt="image" src="https://github.com/user-attachments/assets/1e0581f7-1c1b-4ec3-aa1f-c7a5365b69ab" />
+
 
 
 
