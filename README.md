@@ -1,5 +1,7 @@
 # api-pideya
 
+https://www.cloudskillsboost.google/paths/36
+
 ssh -i "C:\Users\HP\Music\j-c-g.pem" ubuntu@18.213.48.61
 
 https://j-c-g.apis-s.site/api/auth/login
